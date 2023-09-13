@@ -1,0 +1,83 @@
+Add component (AddParameter): Name = "Publisher"; Value = "seyed mohsen ghasemian"; VariantName = "[No Variations]"
+Added Component: Designator=1N4001(D 50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Publisher"; Value = "seyed mohsen ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=input_terminal(Terminal 1*2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=K2(Relays)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design_Date"; Value = "2011/10/31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Eng. Saeid Jorablo"; VariantName = "[No Variations]"
+Added Component: Designator=K(Relay 15.40x12.10x13.10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design_Date"; Value = "2011/10/31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Eng. Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=relay_contoct_terminal(Terminal 1*3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Seyed mohsen ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=R(Res50)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Publisher"; Value = "Seyed mohsen ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1N4001-1
+Added Pin To Net: NetName=GND Pin=input_terminal-2
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=GND Pin=K-5
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=K-1
+Added Pin To Net: NetName=NetK2_1 Pin=relay_contoct_terminal-2
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=K-2
+Added Pin To Net: NetName=NetK2_2 Pin=relay_contoct_terminal-1
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=NetK2_3 Pin=K2-3
+Added Pin To Net: NetName=NetK2_3 Pin=K-3
+Added Pin To Net: NetName=NetK2_3 Pin=relay_contoct_terminal-3
+Added Net: Name=NetK2_3
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=R-2
+Added Net: Name=NetLED_1
+Added Pin To Net: NetName=VCC Pin=1N4001-2
+Added Pin To Net: NetName=VCC Pin=input_terminal-1
+Added Pin To Net: NetName=VCC Pin=K2-4
+Added Pin To Net: NetName=VCC Pin=K-4
+Added Pin To Net: NetName=VCC Pin=R-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Added Component: Designator=Con?(My_CN2)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component Con? CON2 pin blue
+Added Room: Name=Sheet1

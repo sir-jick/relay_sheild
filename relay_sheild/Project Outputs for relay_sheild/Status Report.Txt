@@ -1,13 +1,13 @@
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [relay_sheild.PrjPcb]
-   Generated File[PCB1.GKO]
-   Generated File[PCB1.RUL]
-   Generated File[PCB1.EXTREP]
-   Generated File[PCB1.REP]
+   Generated File[PCB2.GKO]
+   Generated File[PCB2.RUL]
+   Generated File[PCB2.EXTREP]
+   Generated File[PCB2.REP]
 
 
 Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 10:00:06 PM On 9/12/2023
+Finished Output Generation At 8:57:40 PM On 23/09/14

@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=VCC Pin=INPUT_TERMINAL-2
+Change Component Designator: OldDesignator=input_terminal_1 NewDesignator=input_terminal
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Added Component: Designator=M2(Board Screw_No Silk)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R(AXIAL0.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1N4001-1
+Added Pin To Net: NetName=VCC Pin=1N4001-2
+Added Pin To Net: NetName=GND Pin=input_terminal-1
+Added Pin To Net: NetName=NetD1_1 Pin=INPUT_TERMINAL-2
+Added Pin To Net: NetName=VCC Pin=input_terminal-2
+Added Pin To Net: NetName=NetK1_A_1 Pin=K2-1
+Added Pin To Net: NetName=NetK1_A_2 Pin=K2-2
+Added Pin To Net: NetName=NetK1_A_3 Pin=K2-3
+Added Pin To Net: NetName=VCC Pin=K2-4
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=NetK1_A_1 Pin=K-1
+Added Pin To Net: NetName=NetK1_A_2 Pin=K-2
+Added Pin To Net: NetName=NetK1_A_3 Pin=K-3
+Added Pin To Net: NetName=VCC Pin=K-4
+Added Pin To Net: NetName=GND Pin=K-5
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=VCC Pin=R-1
+Added Pin To Net: NetName=NetK1_A_2 Pin=relay_contoct_terminal-1
+Added Pin To Net: NetName=NetK1_A_1 Pin=relay_contoct_terminal-2
+Added Pin To Net: NetName=NetK1_A_3 Pin=relay_contoct_terminal-3
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=R-2
+Added Net: Name=NetLED_1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

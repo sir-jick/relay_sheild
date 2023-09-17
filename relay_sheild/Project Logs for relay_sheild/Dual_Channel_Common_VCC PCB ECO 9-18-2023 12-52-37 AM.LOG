@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=NetK1_A_1 Pin=K1_B-1
+Removed Pin From Net: NetName=NetK1_A_2 Pin=K1_B-2
+Removed Pin From Net: NetName=NetK1_A_3 Pin=K1_B-3
+Removed Pin From Net: NetName=NetK1_A_1 Pin=K2_B-1
+Removed Pin From Net: NetName=NetK1_A_2 Pin=K2_B-2
+Removed Pin From Net: NetName=NetK1_A_3 Pin=K2_B-3
+Removed Pin From Net: NetName=NetK1_A_2 Pin=relay_contoct_terminal2-1
+Removed Pin From Net: NetName=NetK1_A_1 Pin=relay_contoct_terminal2-2
+Removed Pin From Net: NetName=NetK1_A_3 Pin=relay_contoct_terminal2-3
+Add component (AddParameter): Name = "Publisher"; Value = "seyed mohsen ghasemian"; VariantName = "[No Variations]"
+Added Component: Designator=1N4001(D 50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Publisher"; Value = "seyed mohsen ghasemian"; VariantName = "[No Variations]"
+Added Component: Designator=input_terminal(My_CN2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=K2(Relays)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design_Date"; Value = "2011/10/31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Eng. Saeid Jorablo"; VariantName = "[No Variations]"
+Added Component: Designator=K(Relay 15.40x12.10x13.10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design_Date"; Value = "2011/10/31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Eng. Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Added Component: Designator=LED(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Added Component: Designator=M2(Board Screw_No Silk)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=relay_contoct_terminal(Terminal 1*3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R(AXIAL0.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1N4001-1
+Added Pin To Net: NetName=VCC Pin=1N4001-2
+Added Pin To Net: NetName=GND Pin=input_terminal-1
+Added Pin To Net: NetName=VCC Pin=input_terminal-2
+Added Pin To Net: NetName=VCC Pin=K2-4
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=VCC Pin=K-4
+Added Pin To Net: NetName=GND Pin=K-5
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=VCC Pin=R-1
+Added Pin To Net: NetName=NetLED_1 Pin=R-2
+Added Pin To Net: NetName=NetK1_B_1 Pin=K1_B-1
+Added Pin To Net: NetName=NetK1_B_1 Pin=K2_B-1
+Added Pin To Net: NetName=NetK1_B_1 Pin=relay_contoct_terminal2-2
+Added Net: Name=NetK1_B_1
+Added Pin To Net: NetName=NetK1_B_2 Pin=K1_B-2
+Added Pin To Net: NetName=NetK1_B_2 Pin=K2_B-2
+Added Pin To Net: NetName=NetK1_B_2 Pin=relay_contoct_terminal2-1
+Added Net: Name=NetK1_B_2
+Added Pin To Net: NetName=NetK1_B_3 Pin=K1_B-3
+Added Pin To Net: NetName=NetK1_B_3 Pin=K2_B-3
+Added Pin To Net: NetName=NetK1_B_3 Pin=relay_contoct_terminal2-3
+Added Net: Name=NetK1_B_3
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=K-1
+Added Pin To Net: NetName=NetK2_1 Pin=relay_contoct_terminal-2
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=K-2
+Added Pin To Net: NetName=NetK2_2 Pin=relay_contoct_terminal-1
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=NetK2_3 Pin=K2-3
+Added Pin To Net: NetName=NetK2_3 Pin=K-3
+Added Pin To Net: NetName=NetK2_3 Pin=relay_contoct_terminal-3
+Added Net: Name=NetK2_3
+Added Member To Class: ClassName=Sheet1 Member=Component 1N4001 Diode 1N4007 vertical
+Added Member To Class: ClassName=Sheet1 Member=Component input_terminal CON2 pin blue
+Added Member To Class: ClassName=Sheet1 Member=Component K2 Relay-05vDC
+Added Member To Class: ClassName=Sheet1 Member=Component K Relay
+Added Member To Class: ClassName=Sheet1 Member=Component LED Red
+Added Member To Class: ClassName=Sheet1 Member=Component M2 Screw
+Added Member To Class: ClassName=Sheet1 Member=Component relay_contoct_terminal Terminal
+Added Member To Class: ClassName=Sheet1 Member=Component R 1K
+Added Room: Name=Dual_Channel_Common_VCC
+Added Room: Name=Sheet1

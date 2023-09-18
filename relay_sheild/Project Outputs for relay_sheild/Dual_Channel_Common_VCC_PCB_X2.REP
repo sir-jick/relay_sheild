@@ -1,0 +1,23 @@
+*************************************************************
+FileName = Dual_Channel_Common_VCC_PCB_X2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : Dual_Channel_Common_VCC_PCB_X2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+

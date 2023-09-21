@@ -1,12 +1,12 @@
 Output: NC Drill Files
 Type  : NC Drill
 From  : Project [relay_sheild.PrjPcb]
-   Generated File[Dual_Channel_Common_VCC_PCB_X4.TXT]
-   Generated File[Dual_Channel_Common_VCC_PCB_X4.LDP]
-   Generated File[Dual_Channel_Common_VCC_PCB_X4.DRR]
+   Generated File[PCB2_X10.TXT]
+   Generated File[PCB2_X10.LDP]
+   Generated File[PCB2_X10.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:19:57 AM On 9/18/2023
+Finished Output Generation At 10:17:29 PM On 9/21/2023
